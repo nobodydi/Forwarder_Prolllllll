@@ -3,8 +3,8 @@ from config import Config
 
 class Translation(object):
   START_TXT = """<b>Hai {}!!</b>
-<i>I'm Simple Auto file Forward Bot
-This Bot forward all files to One Public channel to Your Personal channel
+<i>I'm Simple Auto file Forward Bot😜
+This Bot forward all files to One Public channel to Your Personal channel and see my pevers😜🤭
 More details /help</i>"""
   CAPTION = "`{}`\n\n" + str(Config.CAPTION)
   HELP_TXT = """<b>Follow These Steps!!</b>
