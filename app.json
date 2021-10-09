@@ -1,5 +1,5 @@
 {
-  "name": "Auto-Forward-Bot",
+  "name": "file-forward-bot ",
   "description": "Telegram's Best Smart Plugin File Forward Bot",
   "logo": "https://telegra.ph/file/8b8419bb855959c143875.jpg",
   "keywords": [
@@ -9,9 +9,9 @@
     "forward",
     "bot"
   ],
-  "success_url": "https://t.me/DForDarkAngel",
-  "website": "https://github.com/Jijinr/Frwdit",
-  "repository": "https://github.com/Jijinr/Frwdit",
+  "success_url": "https://t.me/Pro_editor_tg",
+  "website": "https://github.com/Lallu-lallus/forward_bot",
+  "repository": "https://github.com/Lallu-lallus/forward_bot",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
@@ -33,7 +33,7 @@
       "description": "enter Channel username Eg:- @abcdefghijk",
       "value": ""
     },
-    "OWNER_ID": {
+    "ADMIN_ID": {
       "description": "Enter Your Telegram id",
       "value": ""
     },
@@ -41,15 +41,15 @@
       "description": "Enter File Skiping Number",
       "value": "0"
     },
-    "CAPTION": {
+    "DESCRIPTION": {
       "description": "If you want to add a caption to the forwarded file, enter it here",
       "required": false
     },
-    "FILTER_TYPE": {
+    "FILE_TYPE": {
       "description": "Type Of filters {document , audio , photo , video , animation , (empty = forward all kind of messages)}",
       "value": "document"
     },
-    "SESSION": {
+    "SESSION_STRING": {
       "description": "Pyrogram string Seccion https://replit.com/@JijinR/PyroSessionString",
       "value": ""
     }
