@@ -12,20 +12,9 @@ Copyright permission under GNU GENERAL PUBLIC LICENSE
 ```
 
 ### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lallu-lallus/forward_bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lalluss/Forwarder_Pro)
 
-## HOW TO DEPLOY YOUTUBE TUTORIAL
 
-<a href="https://youtu.be/xufAzeTLRIs"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
-
-Deploy in your vps
-```sh
-git clone https://github.com/Lallu-lallus/forward_bot
-cd Frwit
-pip3 install -r requirements.txt
-# <Create Variables appropriately>
-python3 main.py
-```
 
 ### Variables
 
@@ -44,4 +33,3 @@ python3 main.py
 ### Credits
 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
-* `Special Thanks Dump Group Members`🤣
