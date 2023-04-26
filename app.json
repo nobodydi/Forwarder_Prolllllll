@@ -10,15 +10,15 @@
     "bot"
   ],
   "success_url": "https://t.me/Pro_editor_tg",
-  "website": "https://github.com/Lallu-lallus/forward_bot",
-  "repository": "https://github.com/Lallu-lallus/forward_bot",
+  "website": "https://github.com/Lalluss/Forwarder_Pro",
+  "repository": "https://github.com/Lalluss/Forwarder_Pro",
   "env": {
     "API_ID": {
-      "description": "Get this value from https://my.telegram.org or @UseTGXBot",
+      "description": "Get this value from https://my.telegram.org or @MT_MyTelegramOrg_Bot",
       "value": ""
     },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org or @UseTGXBot",
+      "description": "Get this value from https://my.telegram.org or @MT_MyTelegramOrg_Bot",
       "value": ""
     },
     "BOT_TOKEN": {
