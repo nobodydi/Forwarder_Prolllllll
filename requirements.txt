@@ -1,3 +1,4 @@
 TgCrypto
 Pyrogram
 Dnspython
+pyromod==1.5
